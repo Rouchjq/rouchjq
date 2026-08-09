@@ -20,7 +20,6 @@ I work across the whole stack: native iOS/Android modules, React Native, Next.js
 NestJS + PostgreSQL on the backend — usually in regulated domains where correctness
 matters (identity verification, compliance, money movement).
 
-I document what I decide: **38 ADRs and 33 RFCs** written in the last year.
 
 ---
 
